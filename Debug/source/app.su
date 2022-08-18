@@ -1,0 +1,13 @@
+E:\RT1060\evkbimxrt1050_host_video_camera_freertos\CMSIS/core_cm7.h:1902:22:__NVIC_EnableIRQ	16	static
+E:\RT1060\evkbimxrt1050_host_video_camera_freertos\CMSIS/core_cm7.h:2032:22:__NVIC_SetPriority	16	static
+E:\RT1060\evkbimxrt1050_host_video_camera_freertos\drivers/fsl_common_arm.h:499:24:EnableIRQ	24	static
+../source/app.c:87:6:USB_OTG1_IRQHandler	8	static
+../source/app.c:92:6:USB_OTG2_IRQHandler	8	static
+../source/app.c:97:6:USB_HostClockInit	16	static
+../source/app.c:118:6:USB_HostIsrEnable	16	static
+../source/app.c:135:6:USB_HostTaskFn	16	static
+../source/app.c:152:21:USB_HostEvent	32	static
+../source/app.c:186:13:USB_HostApplicationInit	16	static
+../source/app.c:209:13:USB_HostTask	16	static
+../source/app.c:217:13:USB_HostApplicationTask	16	static
+../source/app.c:226:5:main	24	static

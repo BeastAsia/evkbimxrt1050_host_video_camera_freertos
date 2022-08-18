@@ -1,0 +1,9 @@
+../source/host_video.c:117:16:USB_HostGetProperEndpointInterfaceInfo	48	static
+../source/host_video.c:203:13:USB_HostVideoCommandCallback	32	static
+../source/host_video.c:219:13:USB_HostVideoControlCallback	32	static
+../source/host_video.c:245:13:USB_HostVideoSdcardBufferState	24	static
+../source/host_video.c:265:13:USB_HostVideoStreamDataInCallback	56	static
+../source/host_video.c:411:13:USB_HostVideoWriteSDCard	64	static
+../source/host_video.c:489:6:USB_HostVideoTask	72	static
+../source/host_video.c:1034:14:USB_HostVideoEvent	48	static
+../source/host_video.c:1132:14:USB_HostVideoAppSDcardInit	600	static

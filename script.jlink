@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "E:\RT1060\evkbimxrt1050_host_video_camera_freertos\Debug\evkbimxrt1050_host_video_camera_freertos.hex" 0x60000000 
+qc
+
+qc
